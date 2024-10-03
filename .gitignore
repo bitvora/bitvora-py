@@ -1,0 +1,5 @@
+/dist
+/.vscode
+/build
+/bitvora.egg-info
+.DS_Store
